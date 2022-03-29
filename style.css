@@ -133,11 +133,11 @@ ul li {
 
 /* Cookie box start */
 .cookieBox {
-    width 100%;
+    width: 100%;
     padding: 10px;
     overflow: hidden;
     margin-top: 20px;
-    border: 1px solid black
+    border: 1px solid black;
 }
 .cookieText{
     padding: 0 20px;
